@@ -1,0 +1,18 @@
+
+.detail{
+    padding: 10rem;
+    align-items: center;
+}
+.button{
+    /* margin-top: 2rem; */
+    margin-left: 50%;
+    justify-content: center;
+    background-color: #00ABFB;
+    width: 6rem;
+    height: 56px;
+    border-radius: 5px;
+    font-size: medium;
+    padding-left:8px;
+    cursor: pointer;
+}
+/* ml-6 bg-primary-200 text-white font-medium px-6 rounded-xl hover:opacity-75 shadow-outer font-ibm w-40 h-[56px] */
